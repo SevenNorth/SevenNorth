@@ -8,7 +8,7 @@
 4. 熟练使用typescript进行项目开发;
 5. 熟练使用git进行版本控制;
 7. 掌握常用webpack配置及优化;
-8. 了解Three.js、CesiumJS及PixiJS;
+8. 了解Three.js、CesiumJS、Openlayers及PixiJS;
 9. 了解基本Nginx配置及日志分析;
 10. 了解Python、C#及Flutter。
 
