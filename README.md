@@ -131,3 +131,10 @@
 ### 开源项目
 
 -----
+
+#### pixi_game
+
+- 介绍
+  使用pixijs开发一个web小游戏。[仓库地址](https://github.com/SevenNorth/pixi_game)
+- 在线体验地址
+    [雷电法王皮卡丘](http://game.lovinghlx.cn/)
